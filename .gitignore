@@ -1,0 +1,8 @@
+.env
+token.json
+client_secret.json
+data/
+__pycache__/
+*.ttf
+*.mp3
+*.mp4
